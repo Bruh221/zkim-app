@@ -1,4 +1,4 @@
-import Main from './Components/Pages/Main.js';
+uimport Main from './Components/Pages/Main.js';
 import Additionally from './Components/Pages/Additionally.js';
 import Rating from './Components/Pages/Rating.js';
 import Transfer from './Components/Pages/Transfer.js';
@@ -12,7 +12,7 @@ import bridge from '@vkontakte/vk-bridge';
 
 
 window.params = window.location.search;
-window.socket = io("https://vklightcoin.xyz", {
+window.socket = io("https://zkim-app.vercel.app", {
   transports: ['websocket'],
   query: {
     params: window.params
