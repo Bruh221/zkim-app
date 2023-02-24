@@ -1,4 +1,4 @@
-uimport Main from './Components/Pages/Main.js';
+import Main from './Components/Pages/Main.js';
 import Additionally from './Components/Pages/Additionally.js';
 import Rating from './Components/Pages/Rating.js';
 import Transfer from './Components/Pages/Transfer.js';
