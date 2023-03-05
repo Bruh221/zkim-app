@@ -1,5 +1,4 @@
 /*----------------------------------------------------------*/
-require('./server.js')
 const { VK, MessageContext, Keyboard } = require('vk-io');
 const { HearManager } = require('@vk-io/hear');
 const { QuestionManager } = require('vk-io-question');
