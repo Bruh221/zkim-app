@@ -1,0 +1,422 @@
+{
+	"14204251": {
+		"id": 14204251,
+		"name": "Александр",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"180953606": {
+		"id": 180953606,
+		"name": "Андрей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"196762755": {
+		"id": 196762755,
+		"name": "Тимофей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"274451477": {
+		"id": 274451477,
+		"name": "Андрей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"274536230": {
+		"id": 274536230,
+		"name": "Ильназ",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"315564418": {
+		"id": 315564418,
+		"name": "‘’",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"378091556": {
+		"id": 378091556,
+		"name": "Алексей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"381729482": {
+		"id": 381729482,
+		"name": "Dima",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"393677217": {
+		"id": 393677217,
+		"name": "Гоша",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"432054220": {
+		"id": 432054220,
+		"name": "Алексей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"445432912": {
+		"id": 445432912,
+		"name": "Дмитрий",
+		"buy": 270000000,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"446664681": {
+		"id": 446664681,
+		"name": "Артём",
+		"buy": 15050000,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"449520177": {
+		"id": 449520177,
+		"name": "Вадим",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"505816739": {
+		"id": 505816739,
+		"name": "Аян",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"538770036": {
+		"id": 538770036,
+		"name": "Алексей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"551928111": {
+		"id": 551928111,
+		"name": "Сергей",
+		"buy": 270000000,
+		"buyDay": 200000000,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"554553417": {
+		"id": 554553417,
+		"name": "Aleksandr",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"564468993": {
+		"id": 564468993,
+		"name": "Антон",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"569915614": {
+		"id": 569915614,
+		"name": "Савелий",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"571885063": {
+		"id": 571885063,
+		"name": "Максим",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"575438271": {
+		"id": 575438271,
+		"name": "Максим",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"576237456": {
+		"id": 576237456,
+		"name": "Алексей",
+		"buy": 130000000,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"586862749": {
+		"id": 586862749,
+		"name": "Денежный",
+		"buy": 310000000,
+		"buyDay": 300000000,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"587992073": {
+		"id": 587992073,
+		"name": "Андрей",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"593931324": {
+		"id": 593931324,
+		"name": "Ольга",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"605253518": {
+		"id": 605253518,
+		"name": "Дикий",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"610522896": {
+		"id": 610522896,
+		"name": "Ну-Типа",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"613561278": {
+		"id": 613561278,
+		"name": "Павел",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"625440557": {
+		"id": 625440557,
+		"name": "Даня",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"632871523": {
+		"id": 632871523,
+		"name": "Артём",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"644184637": {
+		"id": 644184637,
+		"name": "Егор",
+		"buy": 600000000,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"644985980": {
+		"id": 644985980,
+		"name": "Ярослав",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"659890558": {
+		"id": 659890558,
+		"name": "Кирилл",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"673726780": {
+		"id": 673726780,
+		"name": "Кирилл",
+		"buy": 443000000,
+		"buyDay": 30499999.999999996,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"699031603": {
+		"id": 699031603,
+		"name": "Никита",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"718187180": {
+		"id": 718187180,
+		"name": "Ёк",
+		"buy": 67200000,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"721620731": {
+		"id": 721620731,
+		"name": "Tony",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"734815794": {
+		"id": 734815794,
+		"name": "Просто",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"738017199": {
+		"id": 738017199,
+		"name": "Никиточка",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"763452170": {
+		"id": 763452170,
+		"name": "Прогульщик",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	},
+	"766935443": {
+		"id": 788158496,
+		"name": "Арабский",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": true
+		}
+	},
+	"785216321": {
+		"id": 785216321,
+		"name": "Кот",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": false
+		}
+	}
+}
