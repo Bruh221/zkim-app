@@ -418,5 +418,15 @@
 			"rass": true,
 			"admin": false
 		}
+	},
+	"788158496": {
+		"id": 788158496,
+		"name": "Dmitry",
+		"buy": 0,
+		"buyDay": 0,
+		"usersettings": {
+			"rass": true,
+			"admin": true
+		}
 	}
 }
